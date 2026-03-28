@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/tray.png</file>
+        <file>resources/icon.icns</file>
+        <file>resources/system.png</file>
+        <file>resources/quit.png</file>
+        <file>resources/window.png</file>
+        <file>resources/doctor.png</file>
+        <file>resources/open.png</file>
+        <file>translations/OpenClaw_en_US.qm</file>
+        <file>translations/OpenClaw_zh_CN.qm</file>
+    </qresource>
+</RCC>
